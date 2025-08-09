@@ -4,10 +4,11 @@
   "symbol": "PPM",
   "name": "PenguPump",
   "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/dangquanghung1991/token-list/main/assets/mainnet/A6sfF4PpfKXfvjWwAXWCStmP2BYB13UeJJRa1BMzqK1V/Logo.png",
+  "logoURI": "https://raw.githubusercontent.com/dangquanghung1991/PenguPump/main/assets/mainnet/A6sfF4PpfKXfvjWwAXWCStmP2BYB13UeJJRa1BMzqK1V/logo.png",
   "tags": ["meme", "community"],
   "extensions": {
     "website": "https://pengupump.fun",
     "telegram": "https://t.me/+BTp8TTwNCD1hNzNl"
   }
 }
+
